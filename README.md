@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the HistLS algorithm for Weighted Partial MaxSAT, as proposed in our paper:
 
-Improving Local Search for Weighted Partial MaxSAT by Initializing with Historical Information
+[Improving Local Search for Weighted Partial MaxSAT by Initializing with Historical Information](https://link.springer.com/chapter/10.1007/978-981-95-0215-8_10)
 
 ## Usage Guide
 
