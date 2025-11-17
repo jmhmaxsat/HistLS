@@ -12,7 +12,7 @@ git clone https://github.com/jmhmaxsat/HistLS.git
 cd HistLS
 make
 ```
-
+ 
 After compilation, an executable file named HistLS will be available in the HistLS directory.
 To run the algorithm, use the following command: `./starexec_run-runsolver.sh instance_name`.
 
