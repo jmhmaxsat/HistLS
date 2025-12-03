@@ -1,8 +1,8 @@
 # HistLS
 
-This repository contains the implementation of the HistLS algorithm for Weighted Partial MaxSAT, as proposed in our paper:
+This repository contains the implementation of the HistLS algorithm for WPMS, as proposed in our paper:
 
-Improving Local Search for Weighted Partial MaxSAT by Initializing with Historical Information
+> *Improving Local Search for Weighted Partial MaxSAT by Initializing with Historical Information*
 
 ## Usage Guide
 
